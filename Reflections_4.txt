@@ -1,0 +1,16 @@
+Kanban vs SCRUM
+
+SCRUM: 
+1.Podział zasobów organizacji na małe, samoorganizujące się zespoły.
+2.Podział całości pracy na zadania, którym nadaje się określony priorytet i szacunkowy nakłąd pracy potrzebny do realizacji.
+3.Podział czasu pracy przeznaczonego na dany projekt na iteracje o określonej wielkości (najczęściej od 2 do 4 tygodni).
+4.Omówienie wyników pracy po każdej iteracji. Optymalizowanie priorytetów i czasu poświeconego na określone zadania
+
+Kanban:
+1.Wizualizacja przepływów – podzielenie głównego zadania na mniejsze, każde zadanie zapisane na odrebnej kartce i umieszczone na tablicy.
+2.Przypisanie konkretnych limitów pracy - ile konkretnie zadań może być wykonywanych jednocześnie.
+3.Określenie czasu realizacji jednego zadania (czasu cyklu). Optymalizacja całego procesu, aby czas jego realizacji był jak najkrótszy i jak najbardziej przewidywalny.
+
+Podsumowanie:
+SCRUM jest podejściem nastawionym na zespoły, które w trakcie psrintów wykonują określone zadania. Praca jest podporządkowana zespołom. 
+Kanban jest podejściem nastawionym na projekt. Projekt jest dzielony na mniejsze zadania i to zasoby organizacji są później podporządkowywane zadaniom.

@@ -1,0 +1,7 @@
+Test Driven Development
+Jest to technika tworzenia oprogramowania, którą zalicza się do metodyk programowania zwinnego.
+
+Polega na wielokrotnym powtarzaniu kroków:
+1. Utworzenie automatycznego testu przez programistę, aby sprawdzić dodawaną funkcjonalność (na tym etapie test powinien zakończyć się niepowodzeniem).
+2. Implementacja danej funkcjonalności. Na tym etapie napisany uprzednio test powinien się udać.
+3. Refaktoryzacja kodu, aby spełniał on oczekiwane standardy
