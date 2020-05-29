@@ -1,0 +1,2 @@
+Backlog można zdefiniować jako listę zaległości, które należy zrealizować w projekcie. Do tej listy dodaje się każdą rzecz, która w danym momencie wydaje się być istotna, zaś rzeczy, które zostały już zrealizowane lub uznane za bezcelowe, zostają z nej usunięte. Każda pozycja w backlogu musi być oszacowana, a sama lista jest sortowana w zależności od priorytetu zadania.
+Elementy planowane na najbliższą przyszłość są umieszczane w backlogu najwyżej, elementy "na później" - niżej.
